@@ -10,7 +10,7 @@ The current appearance of this blog is based off of the colors and font from the
 * * *
 ## Why is the status quo
 
-I'd like to specify that status is mutable, and will most likely not be quo for most of the lifetime of this blog. I will tend to keep changing the appearance to breathe some fresh air and experiment with my aesthetic sensibilities.
+I'd like to specify that status is mutable, and will most likely not be quo for most of the lifetime of this blog. I will tend to keep changing the appearance to bring in some fresh air and experiment with my aesthetic sensibilities.
 
 ## The Hacker Github theme - 3 March, 2020
 
