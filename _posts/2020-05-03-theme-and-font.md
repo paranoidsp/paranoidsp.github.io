@@ -24,4 +24,4 @@ I love monospace fonts. I apologise for the trouble it might cause you to read i
 
 For all my monospace work, I use Iosevka. Monaco looks great on the browser, and wormed its way onto this theme. I will eventually try out Iosevka for the blog, and then others.
 
-Other fonts I might try in the future are Noto, Iosevka, Lato. If you have any suggestions about fonts that I might like based on this list, please drop me a mail.
+Other fonts I might try in the future are Noto, Iosevka, Lato, Inconsolata and their families. If you have any suggestions about fonts that I might like based on this list, please drop me a mail.
