@@ -2,7 +2,7 @@ Let's start with three deep breaths.
 
 Several years ago, I had a blog.
 
-It was pretentious, flashy, and (from what anonymous people told me) interesting.
+It was pretentious, flashy, and (from what anonymous people told me) moderately interesting.
 
 I went through a phase where my writing was mostly personal, and I deleted all my public writing. These days, I've been interested in writing more from a technical standpoint, and in exploring perspectives and narratives.
 
