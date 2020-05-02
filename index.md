@@ -1,4 +1,6 @@
-Foreword
+---
+layout: default
+---
 
 Let's start with three deep breaths.
 
