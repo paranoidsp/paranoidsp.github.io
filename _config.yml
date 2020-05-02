@@ -6,15 +6,9 @@ author:
   name:  "Karthikeya Viswanath"
   email: "viswanathkarthikeya[@]gmail.com"
 
-nav:
-  - url: /
-    title: "Home"
-  - url: /posts
-    title: "Posts"
-
-
 include:
   - _pages
+  - _posts
 exclude:
   - vendor
   - .asset-cache
@@ -44,6 +38,7 @@ kramdown:
   parse_block_html: true
   input:            GFM
   auto_ids:         true
+  syntax_highlighter: rouge
 
 # Sass/SCSS
 sass:
@@ -80,20 +75,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      read_time: true

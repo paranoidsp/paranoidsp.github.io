@@ -26,10 +26,13 @@
           {% if site.show_github %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
           {% endif %}
-          {% if site.nav %}
-          {% for nav in site.nav %}
-          <a href="{{ nav.url }}" class="btn btn-github">{{ nav.title }}</a>
+          {% if site.data.navigation %}
+          {% for nav in site.data.navigation.nav %}
+          <a href="{{ nav.url }}" title="{{ nav.hovertext }}" class="btn btn-github">{{ nav.title }}</a>
           {% endfor %}
+          {% if site.data.spotify %}
+          <a href="{{ site.data.spotify.current_playlist.url }}" title="What I'm currently listening to" class="btn btn-github">♫ {{ site.data.spotify.current_playlist.name }}</a>
+          {% endif %}
           {% endif %}
         </section>
       </div>

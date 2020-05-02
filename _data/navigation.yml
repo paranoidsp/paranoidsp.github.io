@@ -1,0 +1,7 @@
+nav:
+  - url: /
+    title: "Home"
+    hovertext: "The page with the disclaimer"
+  - url: /blog
+    title: "Blog"
+    hovertext: "The page with the list"
