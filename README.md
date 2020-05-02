@@ -10,6 +10,10 @@ I think it's time I got used to putting things online again, and this is an atte
 
 Posts of a technical nature will stay up in some form or another for linking. Any posts not tagged permanent should not be expected to be up.
 
+The font, the structure and the theme are a work in progress. The plan is to start simple, and slowly lure my largely reticent muse out into the productive and welcoming open world.
+
+The occassional emoji is a reference, and can be safely ignored.
+
 Thank you, and I hope to entertain, teach and learn.
 
 
