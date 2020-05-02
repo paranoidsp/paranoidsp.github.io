@@ -13,4 +13,4 @@ Posts of a technical nature will stay up in some form or another for linking. An
 Thank you, and I hope to entertain, teach and learn.
 
 
-Karthikeya
+Karthikeya :hatching_chick: :duck:
