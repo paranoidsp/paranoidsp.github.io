@@ -3,7 +3,9 @@ layout: post
 title: Memetic Hazards
 tags: [ funny, links, speculation ]
 ---
-* * * If you treat brains as blackboxes with inputs and outputs, it is likely
+* * *
+
+If you treat brains as blackboxes with inputs and outputs, it is likely
 that they've only been adversely tested by inputs that have a chance of evolving
 naturally. Even in this limited space of inputs, there are certain inputs that
 can cause adverse affects to the human brain, like pain, or flashing lights, or
