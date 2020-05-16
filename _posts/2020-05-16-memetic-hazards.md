@@ -3,15 +3,20 @@ layout: post
 title: Memetic Hazards
 tags: [ funny, links, speculation ]
 ---
-* * *
-If you treat brains as blackboxes with inputs and outputs, it is likely that
-they've only been adversely tested by inputs that have a chance of evolving
+* * * If you treat brains as blackboxes with inputs and outputs, it is likely
+that they've only been adversely tested by inputs that have a chance of evolving
 naturally. Even in this limited space of inputs, there are certain inputs that
 can cause adverse affects to the human brain, like pain, or flashing lights, or
 even contextual sentences like "They're dead".
 
-Somewhere in the vast unexplored spaces of inputs that the brain can receive, there are
-likely to be some inputs that can cause catastrophic effects to the human brain.
+But human progress has bypassed slow biological evolution, and jumped into the
+[Cognitive Revolution](https://www.ynharari.com/book/sapiens/). We've acquired
+the capacity to generate patterns that a brain would rarely come across in a
+pre-cognitive revolution society.
+
+Somewhere in the vast unexplored spaces of alien inputs that the brain can
+receive, there are likely to be some patterns that can have great impact on the
+human brain.
 
 This is the basis of the memetic hazard idea, that there's a specific pattern
 that can infect your brain, and cause you to perform certain actions, including
@@ -36,12 +41,11 @@ well.
 
 I'm going to let you read it, no spoilers on this one.
 
-
 ## Notes
 
 This list will keep growing over time. What to expect here:
 * videos
-* music
+* music (constantly on the search for an earworm)
 * gifs
 * books
 * short stories
