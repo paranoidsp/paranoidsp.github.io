@@ -24,4 +24,25 @@ vector for.
 
 ## The girl pronouncing "Who"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Mh24z2zGmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I saw this in April 2020, and it's been hilarious since.
+
+## Another Great Filter short story
+
+[The Great Filter](https://www.begoodenough.com/the-great-filter/) is an
+interesting story, and satisfies a few of those science fiction cravings quite
+well.
+
+I'm going to let you read it, no spoilers on this one.
+
+
+## Notes
+
+This list will keep growing over time. What to expect here:
+* videos
+* music
+* gifs
+* books
+* short stories
+* articles
