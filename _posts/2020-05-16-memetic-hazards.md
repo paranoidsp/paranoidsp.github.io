@@ -8,17 +8,17 @@ tags: [ funny, links, speculation ]
 If you treat brains as blackboxes with inputs and outputs, it is likely
 that they've only been adversely tested by inputs that have a chance of evolving
 naturally. Even in this limited space of inputs, there are certain inputs that
-can cause adverse affects to the human brain, like pain, or flashing lights, or
-even contextual sentences like "They're dead".
+can cause adverse affects to the human brain, like pain, or flashing lights.
 
 But human progress has bypassed slow biological evolution, and jumped into the
 [Cognitive Revolution](https://www.ynharari.com/book/sapiens/). We've acquired
 the capacity to generate patterns that a brain would rarely come across in a
-pre-cognitive revolution society.
+pre-cognitive revolution society. This includes sounds like "They're dead",
+which, with context, have great meaning, and can cause great turmoil.
 
-Somewhere in the vast unexplored spaces of alien inputs that the brain can
-receive, there are likely to be some patterns that can have great impact on the
-human brain.
+Somewhere in the vast unexplored spaces of alien inputs that the mind can
+receive, there are likely to be some patterns that can have interesting effects,
+that might cause people to undertake specific actions.
 
 This is the basis of the memetic hazard idea, that there's a specific pattern
 that can infect your brain, and cause you to perform certain actions, including
