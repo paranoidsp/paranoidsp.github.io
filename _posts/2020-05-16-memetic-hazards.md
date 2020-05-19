@@ -2,9 +2,9 @@
 layout: post
 title: Memetic Hazards
 tags: [ funny, links, speculation ]
-excerpt: Where I attempt to infect you with Lovecraftian horrors
 ---
 * * *
+Where I attempt to infect you with Lovecraftian horrors
 
 If you treat brains as blackboxes with inputs and outputs, it is likely
 that they've only been adversely tested by inputs that have a chance of evolving

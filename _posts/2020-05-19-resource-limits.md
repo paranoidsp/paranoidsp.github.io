@@ -2,9 +2,9 @@
 layout: post
 title: Resource Requests and Limits in Kubernetes
 tags: [ notes, kubernetes, learning ]
-excerpt: Notes on k8s resource requests and limits
 ---
 * * *
+Notes on k8s resource requests and limits
 
 Reading up on resource requests and limits in k8s, found [this](https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b) very interesting
 two part blog.

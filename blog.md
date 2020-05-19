@@ -15,7 +15,7 @@ title: Blog
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <small> {{ minutes }} minute read ({{ post.content | number_of_words }} words) </small>
-* * *
+
       {{ post.excerpt }}
     </li>
   {% endfor %}
