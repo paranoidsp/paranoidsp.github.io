@@ -2,6 +2,7 @@
 layout: post
 title: Memetic Hazards
 tags: [ funny, links, speculation ]
+excert: Where I attempt to infect you with Lovecraftian horrors
 ---
 * * *
 
