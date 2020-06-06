@@ -4,6 +4,7 @@ title: Blurry fonts on external monitors in MacOS Catalina
 tags: [ devsetup, macos, catalina, monitor, learning, notes ]
 ---
 * * *
+The problem, the fix, and the usual rambling
 
 ### The Problem
 
