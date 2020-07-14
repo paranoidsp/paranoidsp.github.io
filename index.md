@@ -2,6 +2,12 @@
 layout: default
 ---
 
+Update: 
+  I've removed most of the content on the blog. I'll be moving it elsewhere.
+
+
+
+
 Let's start with three deep breaths.
 
 Several years ago, I had an anonymous blog.
