@@ -24,6 +24,10 @@ smoothing on MacOS Catalina.
   ```
   defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO
   ```
+  Had to eventually set this too, to turn everything extra off
+  ```
+  defaults -currentHost delete -globalDomain AppleFontSmoothing
+  ```
 
 * Font smoothing
 
