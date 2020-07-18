@@ -67,6 +67,15 @@ to the path in `/System/Library/Displays/Contents/Resources/Overrides/<Vendor Fo
 
 ### What does this patch actually do?
 
+This section is for people that aren't really familiar with programming. 
+
+The layman expects things to be validated by experts, but rarely has the chance
+to check for that validation. So it falls on us to encourage a culture that has
+professionals vouching for ad-hoc scripts, so that eventually it is easy for
+people to check if a particular solution is trustable. This implicit trust is
+something that we also see in the open source ecosystem, more on this in a
+separate post. 
+
 For those of you unsure of running an arbitrary script, and not familiar enough
 with programming to read the script, here's an explanation, and validation of
 what it does.
@@ -186,13 +195,13 @@ being on the lookout for a better font.
 
 ### On running arbitrary scripts
 
-Be very careful.
+Be very careful. Especially, as mentioned, those of you that are not familiar
+with programming. The temptation to run a random command that you find on the
+internet to solve a niggling problem can be immense, and it can be easy to trust
+a random post and run a random command. But it's trivial for someone to craft a
+post that looks helpful, but does something malicious.
 
 This only has to bite you once, and the consequences can be disastrous. Be
 careful when you do that `curl arbitrary-script.io | sh - ` install command, and
 when you run installers, and when you run unknown binaries with sudo.
 
-The normalization of running arbitrary code on your machine is worrying,
-especially when it involves people not really in the programming field who need
-to run things like the above patch to fix issues, but can't really validate it
-themselves. More thoughts on that in a separate post
