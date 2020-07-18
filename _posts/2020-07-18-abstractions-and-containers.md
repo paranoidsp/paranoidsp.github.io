@@ -4,8 +4,6 @@ title: Abstractions and Containers
 tags: [ abstractions, concepts, containers, rambling, notes, docker ]
 ---
 * * * 
-Abstractions and Containers
-
 Containers are abstractions. (Yes, I know, it's in the name, but it's worth
 exploring that concept further)
 
