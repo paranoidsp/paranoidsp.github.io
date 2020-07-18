@@ -8,6 +8,8 @@ I've removed most content on the blog, and instead pushed an old branch from a
 new repo to wipe history too. This was in response to some comments that made
 me consider that an anonymous blog might be better for some of the content.
 
+This is only going to be technical content from now.
+
 ## Index
 
 <ul>
