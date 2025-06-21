@@ -1,2 +1,2 @@
 # paranoidsp.github.io
-An experiment in extraversion and pretentiousness
+Whoa, this world needs extroversion? Pass.
